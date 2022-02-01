@@ -9,3 +9,6 @@ Un segundo commit
 ## Otra prueba
 
 Un tercer cambios
+
+
+![](Ejercicio2-img1.gif)
